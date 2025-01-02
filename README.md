@@ -1,32 +1,34 @@
-# Hi there, I'm Kuruba Mohan👋
+# Hi there, I'm Kuruba Mohan 👋  
 
-Welcome to my profile! I'm a passionate developer dedicated to creating efficient and innovative solutions through code.
+Welcome to my profile! I'm a passionate developer committed to crafting efficient, scalable, and innovative solutions through code.
 
-## 🚀 About Me
+## 🚀 About Me  
 
-- 🌟 **Expertise**: Specializing in Git, GitHub, javascript, I thrive on version control, continuous integration, and collaborative development.
-- 💼 **Professional Background**: With experience spanning from open-source contributions to enterprise-level applications, I help streamline development workflows and enhance productivity.
-- 📚 **Education**: pursuing a degree in Computer Science and enriched with hands-on experience, I blend theory with practical application.
+- 🌟 **Expertise**: Specializing in **Git**, **GitHub**, and **JavaScript**, I thrive in collaborative development environments, version control systems, and delivering seamless integrations.  
+- 💼 **Professional Background**: From contributing to open-source projects to developing enterprise-grade applications, I aim to streamline workflows and enhance productivity.  
+- 📚 **Education**: Pursuing a **B.E. in Computer Science** while applying theoretical knowledge to practical, real-world scenarios.  
 
-## 🔧 Technologies & Tools
+## 🔧 Technologies & Tools  
 
-- **Version Control**: Git, GitHub
-- **Languages**: Python, JavaScript,java
-- **Tools**: VS Code
+- **Version Control**: Git, GitHub  
+- **Languages**: Python, JavaScript, Java  
+- **Frameworks**: React.js, Node.js  
+- **Tools**: VS Code, Postman  
 
-## 🌱 Current Focus
+## 🌱 Current Focus  
 
-Currently exploring advanced Git techniques, automating DevOps processes, and actively contributing to open-source projects.
+I'm currently diving deeper into advanced **Git workflows**, exploring **DevOps automation**, and contributing actively to **open-source projects**.  
 
-## 🎓 Education & Certifications
+## 🎓 Education & Certifications  
 
-- **BE in Computer Science**: Sai vidya Institute of technology
-- **Online Courses**: full stack web development
+- **B.E. in Computer Science**: Sai Vidya Institute of Technology (CGPA: 8.63)  
+- **Certifications**:  
+  - Full Stack Web Development – Udemy  
+  - Java Programming – Qspiders  
+  - SQL – Qspiders  
 
-## 📫 Let's Connect
+## 📫 Let's Connect  
 
-- **GitHub**: [github.com](https://github.com/Manumohan89)
-- **LinkedIn**: [linkedin.com](https://linkedin.com/in/kuruba-mohan-8b4255232)
-- **Email**: manumohan8977@gmail.com
-
-
+- **GitHub**: [github.com/Manumohan89](https://github.com/Manumohan89)  
+- **LinkedIn**: [linkedin.com/in/kuruba-mohan-8b4255232](https://linkedin.com/in/kuruba-mohan-8b4255232)  
+- **Email**: [manumohan8977@gmail.com](mailto:manumohan8977@gmail.com)  
